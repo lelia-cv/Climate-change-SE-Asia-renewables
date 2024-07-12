@@ -1,5 +1,5 @@
 # Repository description
-In this repository, you will find the final research project report (.pdf) and two types of files:
+In this repository, you will find the final research project report (see [report.pdf](report.pdf)) and two types of files:
 - **dataset files**, listed in folders whose names contain "data", followed by the source of the data
 - **code notebooks**, in .ipynb format
 
