@@ -19,7 +19,9 @@ The details of the code files are the following:
 - `linreg`: first tests with linear regressors comparing the implementation of rainfall and flowrate features, and polynomial transformation
 - `linreg_advanced`: thorough feature selection on classic Scikit-learn linear regression model, using flowrate and rainfall lag features, and GDP data
 - `decisiontree`: same but with the Scikit-learn decision tree regressor
+- `monthly_linreg.ipynb`: linear regression models based on monthly Stung Treng datasets using all rainfall and flowrate features
 - `quantile_reg.ipynb`: quantile regression for low flowrates based on Stung Treng and Chiang Khan datasets
+- `trend_models.ipynb`: linear regression models based on the time series decomposition of Stung Treng data, followed by the forecast of flowrate trend, before recombining it with the extracted seasonal pattern (more details in section #models-based-on-time-series-decomposition)
 - `nested_crossval.ipynb`: nested cross-validation based on Stung Treng dataset
 - `nested_cv_nobaseline.ipynb`: nest cross-validation based on Stung Treng dataset without the monthly minimum flowrate feature
 - `nested_cv_CK.ipynb`: nested cross-validation based on Chiang Khan dataset
@@ -27,3 +29,6 @@ The details of the code files are the following:
 - `pred_COVID.ipynb`: models predicting 2020-2021 flowrate based on Stung Treng dataset
 - `st_with_ck_models`: models trained on Chiang Khan dataset and tested on Stung Treng dataset
 - `ck_with_st_models`: models trained on Stung Treng dataset and tested on Chiang Khan dataset
+- `LSTM_models`: first draft of LSTM models to forecast flowrate based on Stung Trend dataset (unfinished work)
+
+## Models based on time series decomposition
