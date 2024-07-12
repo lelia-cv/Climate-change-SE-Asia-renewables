@@ -9,7 +9,7 @@ The datasets contain:
 - `data_mrc`: rainfall daily data for Stung Treng (2007-2024) and Chiang Khan (2008-2024) (source: Mekong River Commission data portal)
 - `data_imf`: GDP annual data and forecasts for Thailand and Laos (1980-2029) (source: IMF)
 - `data_iea`: annual hydro and solar generation in Laos and Cambodia (2005-2021) (source: IEA)
-- `temp_cambodia` & `temp_month_cambodia`: Cambodia annual mean temperature (2007-2022) and monthly mean temperatures averaged by decade (1051-2020) (source: [Climate change knowledge portal,](https://climateknowledgeportal.worldbank.org/country/cambodia/trends-variability-historical))
+- `temp_cambodia` & `temp_month_cambodia`: Cambodia annual mean temperature (2007-2022) and monthly mean temperatures averaged by decade (1051-2020) (source: [Climate change knowledge portal](https://climateknowledgeportal.worldbank.org/country/cambodia/trends-variability-historical))
 - `data_fao`: annual rice production in Cambodia and Laos (2005-2022) (source: FAO)
 
 ## Code files inventory
