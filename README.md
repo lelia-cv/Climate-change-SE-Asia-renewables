@@ -32,3 +32,4 @@ The details of the code files are the following:
 - `LSTM_models.ipynb`: first draft of LSTM models to forecast flowrate based on Stung Trend dataset (unfinished work)
 
 ## Models based on time series decomposition
+[General methodology for models using the time series decomposition approach](images/method_timeseries.png)
